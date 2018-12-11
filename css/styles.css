@@ -7,7 +7,7 @@ body{
 .nav-bar{
     height: 69px;
     width: 100%;
-    background-color:  blue; 
+    background-color: #e60000 ; 
     /* dark red */
     position: fixed;
     top: 0;
